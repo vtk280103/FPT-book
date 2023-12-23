@@ -1,0 +1,63 @@
+﻿
+@model ASM2.Models.Books
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+    var categoryList = ViewBag.CategoryList as List<SelectListItem>;
+}
+<div class="container">
+    <h1 class="text-center">Create book</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create" class="mx-auto">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="NameOfBook" class="control-label">Name Of Book</label>
+                    <input asp-for="NameOfBook" class="form-control" />
+                    <span asp-validation-for="NameOfBook" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Details" class="control-label">Details</label>
+                    <input asp-for="Details" class="form-control" />
+                    <span asp-validation-for="Details" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NameAuthor" class="control-label">Name Author</label>
+                    <input asp-for="NameAuthor" class="form-control" />
+                    <span asp-validation-for="NameAuthor" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PublicDay" class="control-label">Public Day</label>
+                    <input asp-for="PublicDay" class="form-control" />
+                    <span asp-validation-for="PublicDay" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label">Price</label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Picture" class="control-label">Picture</label>
+                    <input asp-for="Picture" type="file" class="form-control" />
+                    <span asp-validation-for="Picture" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Category" class="control-label">Category</label>
+                    <select asp-for="Category" asp-items="ViewBag.CategoryList" class="form-control">
+                        <option value="">Select a category</option>
+                    </select>
+                    <span asp-validation-for="Category" class="text-danger"></span>
+                </div>
+                <div class="form-group text-center">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+   
+</div>
+```
+

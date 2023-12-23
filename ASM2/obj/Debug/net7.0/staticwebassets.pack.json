@@ -1,0 +1,609 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ASM2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASM2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\client-image1.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\client-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\client-image2.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\client-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\client-image3.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\client-image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\client-image4.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\client-image4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\client-image5.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\client-image5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\curly-divider.svg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\curly-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\default.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\device.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\device.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\item.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\item.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\item1.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\item1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\item3.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\item3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\item4.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\item4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\item5.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\item5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\leaf.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\leaf.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\main-banner1.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\main-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\main-banner2.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\main-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\ns-arrow-right.svg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\ns-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\pattern1.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\pattern1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\pattern2.png",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\pattern2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\post-img3.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\post-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\single-image.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\single-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item1.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item2.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item3.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item4.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item5.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item6.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item7.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\images\\tab-item8.jpg",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\images\\tab-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\js\\script.js",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\js\\slideNav.js",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\js\\slideNav.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\js\\slideNav.min.js",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\js\\slideNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\TemplateCustomerView\\style.css",
+      "PackagePath": "staticwebassets\\TemplateCustomerView\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\DeMen.jpg",
+      "PackagePath": "staticwebassets\\images\\DeMen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\Fran.jpg",
+      "PackagePath": "staticwebassets\\images\\Fran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\HP.jpg",
+      "PackagePath": "staticwebassets\\images\\HP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\Haunted.jpg",
+      "PackagePath": "staticwebassets\\images\\Haunted.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\IT.jpg",
+      "PackagePath": "staticwebassets\\images\\IT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\LOG.jpg",
+      "PackagePath": "staticwebassets\\images\\LOG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\MKNS.jpg",
+      "PackagePath": "staticwebassets\\images\\MKNS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\Pino.jpg",
+      "PackagePath": "staticwebassets\\images\\Pino.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\QOS.jpg",
+      "PackagePath": "staticwebassets\\images\\QOS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\Rebeca.jpg",
+      "PackagePath": "staticwebassets\\images\\Rebeca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\TLOTR.jpg",
+      "PackagePath": "staticwebassets\\images\\TLOTR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\TOMATS.jpg",
+      "PackagePath": "staticwebassets\\images\\TOMATS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\ThovaRua.jpg",
+      "PackagePath": "staticwebassets\\images\\ThovaRua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\di~.png",
+      "PackagePath": "staticwebassets\\images\\di~.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\luat-tam-thuc.jpg",
+      "PackagePath": "staticwebassets\\images\\luat-tam-thuc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\images\\Đaouc1.jpg",
+      "PackagePath": "staticwebassets\\images\\Đaouc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASM2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASM2.props",
+      "PackagePath": "build\\ASM2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASM2.props",
+      "PackagePath": "buildMultiTargeting\\ASM2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASM2.props",
+      "PackagePath": "buildTransitive\\ASM2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

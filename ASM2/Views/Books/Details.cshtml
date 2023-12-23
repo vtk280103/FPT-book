@@ -1,0 +1,45 @@
+﻿
+@model ASM2.Models.Books
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="container">
+    <h1 class="mt-4 mb-4"> Book Details</h1>
+
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">Name of Book:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.NameOfBook)</dd>
+
+        <dt class="col-sm-2">Details:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Details)</dd>
+
+        <dt class="col-sm-2">Name Author:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.NameAuthor)</dd>
+
+        <dt class="col-sm-2">Public Day:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.PublicDay)</dd>
+
+        <dt class="col-sm-2">Price:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Price)</dd>
+
+        <dt class="col-sm-2">Picture:</dt>
+        <dd class="col-sm-10">
+            <img src="~/images/@Html.DisplayFor(model => model.Picture)" class="banner-image" width="170">
+        </dd>
+
+
+        <dt class="col-sm-2">Category:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Category)</dd>
+
+    </dl>
+
+    <div class="mt-4">
+        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>
+        <a class="btn btn-secondary ml-2" asp-action="Index">Back to List</a>
+    </div>
+</div>

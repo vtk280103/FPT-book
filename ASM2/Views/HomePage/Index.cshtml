@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ASM2.Models.Books>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/CustomerLayout.cshtml";
+}
+	
+<section id="featured-books" class="py-5 my-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="product-list" data-aos="fade-up">
+					<div class="row">
+						@foreach (var item in Model)
+						{
+							<div class="col-md-3">
+								<div class="product-item">
+									<figure class="product-style">
+										<img src="~/images/@Html.DisplayFor(modelItem => item.Picture)" alt="Books" class="product-item">
+											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">
+											 <a asp-controller="Books" asp-action="AddToCart" asp-route-id="@item.Id">Add To Cart</a>
+											</button>
+									</figure>
+										<figcaption>
+											<h3>@Html.DisplayFor(modelItem => item.NameOfBook)</h3>
+												<span>@Html.DisplayFor(modelItem => item.NameAuthor)</span>
+												<div class="item-price">$ @Html.DisplayFor(modelItem => item.Price)</div>
+
+									<a asp-action="View" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+										</figcaption>
+								</div>
+							</div>
+						}
+					</div><!--ft-books-slider-->
+				</div><!--grid-->
+
+
+			</div><!--inner-content-->
+		</div>
+		
+		
+	</div>
+</section>
+
